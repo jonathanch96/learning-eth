@@ -18,19 +18,6 @@
 			},
 			{
 				"inputs": [],
-				"name": "getMessage",
-				"outputs": [
-					{
-						"internalType": "string",
-						"name": "",
-						"type": "string"
-					}
-				],
-				"stateMutability": "view",
-				"type": "function"
-			},
-			{
-				"inputs": [],
 				"name": "message",
 				"outputs": [
 					{
@@ -84,11 +71,11 @@
 	},
 	"sources": {
 		"contracts/3_Ballot.sol": {
-			"keccak256": "0x128cb182dc6553279546d9da7fd58a782b289dedbfff6bc43b5cd2f0332401e4",
+			"keccak256": "0x8e8146302d391601e54c8f1ffb27856ea13502458aa0d6770e9e3e0174e8e1d4",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://a044e5b7e2be52004ecdcd504bf1653b3f9f65ec271f5ef61b3813d961c41720",
-				"dweb:/ipfs/QmcnFhnbJMzP4MnMKDFjXy4ahZkXCpNZBcHsD7xgPrRYFM"
+				"bzz-raw://7ef09e4f615d3405c542b217ead4b6da4f5fe65184e7a02bc73c1b4bc6b9b71f",
+				"dweb:/ipfs/QmW3RuxzVckVKBCWFbWKT159SSmz8j8MG7LUBqPtjy7Vqw"
 			]
 		}
 	},
